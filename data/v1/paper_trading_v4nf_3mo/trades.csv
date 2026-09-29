@@ -131,3 +131,5 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-09-24,GE,SELL,0.81148,319.78,259.5,0.13,-3.68,rank_exit
 2026-09-24,HACK,BUY,3.009306,122.18,367.68,0.18,,signal_entry
 2026-09-28,XLK,SELL,1.265189,196.27,248.32,0.12,10.76,rank_exit
+2026-09-29,XLK,BUY,1.127716,194.5,219.34,0.11,,signal_entry
+2026-09-29,MSFT,BUY,0.752469,508.96,382.98,0.19,,signal_entry
