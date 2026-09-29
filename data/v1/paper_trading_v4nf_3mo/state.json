@@ -1,5 +1,5 @@
 {
-  "cash": 1251.0698558585125,
+  "cash": 1499.264342610378,
   "positions": {
     "DBMF": {
       "shares": 8.032571300776102,
@@ -28,13 +28,6 @@
       "entry_date": "2026-09-03",
       "cost_basis": 641.1457232815959,
       "last_close": 96.62999725341797
-    },
-    "XLK": {
-      "shares": 1.2651889777828114,
-      "entry_price": 187.6699981689453,
-      "entry_date": "2026-09-11",
-      "cost_basis": 237.43801314387,
-      "last_close": 196.27000427246094
     },
     "UUP": {
       "shares": 29.311637230358713,
@@ -88,7 +81,7 @@
   },
   "initial_capital": 100000.0,
   "initialized_date": "2026-06-21",
-  "last_eod_date": "2026-09-25",
-  "portfolio_value": 7815.799276998175,
+  "last_eod_date": "2026-09-28",
+  "portfolio_value": 7815.675117675137,
   "strategy": "top11_adx22_momt_ac55_cap1"
 }

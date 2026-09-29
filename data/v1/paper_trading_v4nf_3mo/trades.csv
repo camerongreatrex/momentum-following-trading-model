@@ -130,3 +130,4 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-09-24,XLI,SELL,1.795172,168.83,303.08,0.15,-17.33,rank_exit
 2026-09-24,GE,SELL,0.81148,319.78,259.5,0.13,-3.68,rank_exit
 2026-09-24,HACK,BUY,3.009306,122.18,367.68,0.18,,signal_entry
+2026-09-28,XLK,SELL,1.265189,196.27,248.32,0.12,10.76,rank_exit
