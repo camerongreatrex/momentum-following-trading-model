@@ -1,5 +1,5 @@
 {
-  "cash": 896.6458344681258,
+  "cash": 1630.8941895067271,
   "positions": {
     "DBMF": {
       "shares": 8.032571300776102,
@@ -64,13 +64,6 @@
       "cost_basis": 422.78706098420645,
       "last_close": 45.97999954223633
     },
-    "DBC": {
-      "shares": 22.956739464688635,
-      "entry_price": 32.880001068115234,
-      "entry_date": "2026-09-23",
-      "cost_basis": 754.8176181194054,
-      "last_close": 32.0
-    },
     "HACK": {
       "shares": 3.0093057260325566,
       "entry_price": 122.18000030517578,
@@ -95,7 +88,7 @@
   },
   "initial_capital": 100000.0,
   "initialized_date": "2026-06-21",
-  "last_eod_date": "2026-09-29",
-  "portfolio_value": 7780.224958726582,
+  "last_eod_date": "2026-09-30",
+  "portfolio_value": 7779.857650895147,
   "strategy": "top11_adx22_momt_ac55_cap1"
 }
