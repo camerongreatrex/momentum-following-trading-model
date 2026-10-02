@@ -134,3 +134,4 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-09-29,XLK,BUY,1.127716,194.5,219.34,0.11,,signal_entry
 2026-09-29,MSFT,BUY,0.752469,508.96,382.98,0.19,,signal_entry
 2026-09-30,DBC,SELL,22.956739,32.0,734.62,0.37,-20.57,rank_exit
+2026-10-01,HACK,SELL,3.009306,121.24,364.85,0.18,-3.01,rank_exit
