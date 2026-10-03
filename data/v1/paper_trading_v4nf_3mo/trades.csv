@@ -135,3 +135,4 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-09-29,MSFT,BUY,0.752469,508.96,382.98,0.19,,signal_entry
 2026-09-30,DBC,SELL,22.956739,32.0,734.62,0.37,-20.57,rank_exit
 2026-10-01,HACK,SELL,3.009306,121.24,364.85,0.18,-3.01,rank_exit
+2026-10-02,JPM,BUY,1.096831,333.18,365.44,0.18,,signal_entry
