@@ -436,3 +436,5 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-10-01,DBC,SELL,265.608448,32.32,8584.46,4.29,-232.72,rank_exit
 2026-10-02,INTC,SELL,19.151001,120.0,2298.12,1.15,-75.07,rank_exit
 2026-10-02,JPM,BUY,15.040415,333.18,5011.17,2.51,,signal_entry
+2026-10-07,GS,SELL,2.511639,897.18,2253.39,1.13,-113.7,signal_exit
+2026-10-07,HACK,BUY,51.07815,127.66,6520.64,3.26,,signal_entry
