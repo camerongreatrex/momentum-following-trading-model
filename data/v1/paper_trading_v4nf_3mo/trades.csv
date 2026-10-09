@@ -137,3 +137,4 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-10-01,HACK,SELL,3.009306,121.24,364.85,0.18,-3.01,rank_exit
 2026-10-02,JPM,BUY,1.096831,333.18,365.44,0.18,,signal_entry
 2026-10-07,GS,SELL,0.30148,897.18,270.48,0.14,-15.91,signal_exit
+2026-10-08,GS,BUY,0.306647,887.21,272.06,0.14,,signal_entry
