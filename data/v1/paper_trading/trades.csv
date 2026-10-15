@@ -452,3 +452,4 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-10-14,IWM,BUY,25.55798,271.37,6935.67,3.47,,signal_entry
 2026-10-14,XOM,BUY,24.679472,177.01,4368.51,2.18,,signal_entry
 2026-10-14,BRK-B,BUY,13.91223,526.35,7322.7,3.66,,signal_entry
+2026-10-15,EWY,BUY,13.120112,156.22,2049.62,1.02,,signal_entry
