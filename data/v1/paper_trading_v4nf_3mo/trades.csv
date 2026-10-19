@@ -157,3 +157,4 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-10-16,VZ,SELL,9.101982,44.79,407.68,0.2,-15.31,rank_exit
 2026-10-16,GS,SELL,0.306647,881.26,270.24,0.14,-1.96,rank_exit
 2026-10-16,HACK,SELL,3.270134,117.09,382.9,0.19,-27.2,signal_exit
+2026-10-19,MSFT,SELL,0.752469,533.52,401.46,0.2,18.28,rank_exit

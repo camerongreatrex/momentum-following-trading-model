@@ -458,3 +458,4 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-10-16,WTMF,SELL,299.517272,42.42,12705.52,6.35,-479.59,rank_exit
 2026-10-16,VZ,SELL,124.45655,44.79,5574.41,2.79,-209.39,rank_exit
 2026-10-16,GS,SELL,4.203896,881.26,3704.73,1.85,-26.87,rank_exit
+2026-10-19,MSFT,SELL,10.290186,533.52,5490.02,2.75,249.98,rank_exit
