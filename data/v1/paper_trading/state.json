@@ -1,59 +1,45 @@
 {
-  "cash": 70936.87941319896,
+  "cash": 83456.89572027701,
   "positions": {
     "XLE": {
       "shares": 36.69534771625235,
       "entry_price": 67.19999694824219,
       "entry_date": "2026-10-13",
       "cost_basis": 2465.927254546844,
-      "last_close": 67.80000305175781
-    },
-    "XLP": {
-      "shares": 46.25934190123359,
-      "entry_price": 84.19000244140625,
-      "entry_date": "2026-10-13",
-      "cost_basis": 3894.5741076027025,
-      "last_close": 87.20999908447266
-    },
-    "VGSH": {
-      "shares": 146.89490431342352,
-      "entry_price": 57.56999969482422,
-      "entry_date": "2026-10-13",
-      "cost_basis": 8456.739596495025,
-      "last_close": 57.63999938964844
+      "last_close": 67.97000122070312
     },
     "IWM": {
       "shares": 25.557979512047606,
       "entry_price": 271.3699951171875,
       "entry_date": "2026-10-14",
       "cost_basis": 6935.668775389537,
-      "last_close": 271.2799987792969
+      "last_close": 275.7799987792969
     },
     "XOM": {
       "shares": 24.679471678700956,
       "entry_price": 177.00999450683594,
       "entry_date": "2026-10-14",
       "cost_basis": 4368.513146278469,
-      "last_close": 178.27999877929688
+      "last_close": 177.86000061035156
     },
     "BRK-B": {
       "shares": 13.912229871248172,
       "entry_price": 526.3499755859375,
       "entry_date": "2026-10-14",
       "cost_basis": 7322.701853077426,
-      "last_close": 532.22998046875
+      "last_close": 539.8200073242188
     },
     "EWY": {
       "shares": 13.120112292572127,
       "entry_price": 156.22000122070312,
       "entry_date": "2026-10-15",
       "cost_basis": 2049.6239583613797,
-      "last_close": 156.5800018310547
+      "last_close": 153.99000549316406
     }
   },
   "initial_capital": 100000.0,
   "initialized_date": "2026-03-20",
-  "last_eod_date": "2026-10-19",
-  "portfolio_value": 106718.2013311971,
+  "last_eod_date": "2026-10-20",
+  "portfolio_value": 106919.415150813,
   "strategy": "top11_adx22_momt_ac55_cap1"
 }
