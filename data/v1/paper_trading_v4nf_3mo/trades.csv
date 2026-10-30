@@ -172,3 +172,4 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-10-22,XLE,SELL,4.50452,67.57,304.37,0.15,-0.42,rank_exit
 2026-10-28,TLT,BUY,2.499628,81.63,204.04,0.1,,signal_entry
 2026-10-28,COST,BUY,0.30461,992.13,302.21,0.15,,signal_entry
+2026-10-29,TLT,SELL,2.499628,80.99,202.44,0.1,-1.7,signal_exit

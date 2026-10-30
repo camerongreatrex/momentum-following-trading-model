@@ -476,3 +476,4 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-10-28,COST,BUY,4.174958,992.13,4142.1,2.07,,signal_entry
 2026-10-28,EWY,BUY,9.814101,157.46,1545.33,0.77,,signal_entry
 2026-10-28,COPX,BUY,22.680254,76.68,1739.12,0.87,,signal_entry
+2026-10-29,TLT,SELL,34.259636,80.99,2774.69,1.39,-23.31,signal_exit
