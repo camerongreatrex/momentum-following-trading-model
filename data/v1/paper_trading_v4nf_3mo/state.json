@@ -6,26 +6,26 @@
       "entry_price": 178.94000244140625,
       "entry_date": "2026-10-21",
       "cost_basis": 566.7833663246265,
-      "last_close": 184.60000610351562
+      "last_close": 184.02000427246094
     },
     "COST": {
       "shares": 0.3046104583276246,
       "entry_price": 992.1300048828125,
       "entry_date": "2026-10-28",
       "cost_basis": 302.21317550794197,
-      "last_close": 1040.550048828125
+      "last_close": 1019.260009765625
     },
     "BRK-B": {
       "shares": 1.4016557988230183,
       "entry_price": 556.1099853515625,
       "entry_date": "2026-11-02",
       "cost_basis": 779.4747857514013,
-      "last_close": 556.1099853515625
+      "last_close": 557.0700073242188
     }
   },
   "initial_capital": 100000.0,
   "initialized_date": "2026-06-21",
-  "last_eod_date": "2026-11-02",
-  "portfolio_value": 7777.801601342642,
+  "last_eod_date": "2026-11-03",
+  "portfolio_value": 7770.824926819272,
   "strategy": "top11_adx22_momt_ac55_cap1"
 }
