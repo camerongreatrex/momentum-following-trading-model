@@ -499,3 +499,4 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-11-04,DBA,BUY,411.007157,26.52,10899.91,5.45,,signal_entry
 2026-11-04,DBMF,BUY,96.106928,32.22,3096.57,1.55,,signal_entry
 2026-11-04,WTMF,BUY,275.807436,39.52,10899.91,5.45,,signal_entry
+2026-11-05,DBA,SELL,411.007157,26.45,10871.14,5.44,-34.21,signal_exit
