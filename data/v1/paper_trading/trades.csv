@@ -510,3 +510,7 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-11-11,NVDA,BUY,13.527704,168.89,2284.69,1.14,,signal_entry
 2026-11-11,DBA,BUY,550.00189,26.26,14443.05,7.22,,signal_entry
 2026-11-11,EWT,BUY,33.733218,94.68,3193.86,1.6,,signal_entry
+2026-11-12,XLK,SELL,21.434037,174.36,3737.24,1.87,-47.95,rank_exit
+2026-11-12,TLT,SELL,37.578665,80.92,3040.87,1.52,-0.02,signal_exit
+2026-11-12,XOM,BUY,26.835264,166.71,4473.71,2.24,,signal_entry
+2026-11-12,MUB,BUY,71.428008,104.82,7487.08,3.74,,signal_entry

@@ -201,3 +201,7 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-11-11,NEE,BUY,6.556374,86.27,565.62,0.28,,signal_entry
 2026-11-11,DBA,BUY,40.193731,26.26,1055.49,0.53,,signal_entry
 2026-11-11,EWT,BUY,2.465199,94.68,233.41,0.12,,signal_entry
+2026-11-12,XLK,SELL,1.565894,174.36,273.03,0.14,-3.5,rank_exit
+2026-11-12,TLT,SELL,2.746221,80.92,222.22,0.11,-0.0,signal_exit
+2026-11-12,XOM,BUY,1.958976,166.71,326.58,0.16,,signal_entry
+2026-11-12,MUB,BUY,5.21425,104.82,546.56,0.27,,signal_entry
