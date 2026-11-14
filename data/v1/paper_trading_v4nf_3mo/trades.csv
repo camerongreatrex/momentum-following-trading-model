@@ -205,3 +205,5 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-11-12,TLT,SELL,2.746221,80.92,222.22,0.11,-0.0,signal_exit
 2026-11-12,XOM,BUY,1.958976,166.71,326.58,0.16,,signal_entry
 2026-11-12,MUB,BUY,5.21425,104.82,546.56,0.27,,signal_entry
+2026-11-13,MUB,SELL,5.21425,103.95,542.02,0.27,-4.81,signal_exit
+2026-11-13,XLE,BUY,7.251004,64.33,466.46,0.23,,signal_entry
