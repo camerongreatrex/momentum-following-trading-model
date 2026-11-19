@@ -211,3 +211,5 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-11-16,DBMF,SELL,7.021228,32.14,225.66,0.11,-0.67,rank_exit
 2026-11-16,NEE,SELL,6.556374,85.34,559.52,0.28,-6.38,signal_exit
 2026-11-16,EWT,SELL,2.465199,90.8,223.84,0.11,-9.68,signal_exit
+2026-11-18,DBC,SELL,23.832335,30.19,719.5,0.36,-13.94,rank_exit
+2026-11-18,DBA,SELL,40.193731,26.38,1060.31,0.53,4.29,rank_exit

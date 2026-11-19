@@ -1,5 +1,5 @@
 {
-  "cash": 3501.8943836458043,
+  "cash": 5280.8132737703645,
   "positions": {
     "XLV": {
       "shares": 3.1674491929786313,
@@ -22,20 +22,6 @@
       "cost_basis": 779.4747857514013,
       "last_close": 586.760009765625
     },
-    "DBC": {
-      "shares": 23.83233463608972,
-      "entry_price": 30.760000228881836,
-      "entry_date": "2026-11-11",
-      "cost_basis": 733.0826188609083,
-      "last_close": 30.190000534057617
-    },
-    "DBA": {
-      "shares": 40.193731344289404,
-      "entry_price": 26.260000228881836,
-      "entry_date": "2026-11-11",
-      "cost_basis": 1055.4873943006548,
-      "last_close": 26.3799991607666
-    },
     "XOM": {
       "shares": 1.9589763421317348,
       "entry_price": 166.7100067138672,
@@ -53,7 +39,7 @@
   },
   "initial_capital": 100000.0,
   "initialized_date": "2026-06-21",
-  "last_eod_date": "2026-11-17",
-  "portfolio_value": 7816.003098926709,
+  "last_eod_date": "2026-11-18",
+  "portfolio_value": 7815.113194529447,
   "strategy": "top11_adx22_momt_ac55_cap1"
 }
