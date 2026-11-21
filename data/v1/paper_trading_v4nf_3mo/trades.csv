@@ -217,3 +217,5 @@ date,ticker,action,shares,price,value,commission,pnl,reason
 2026-11-19,XOM,SELL,1.958976,160.58,314.57,0.16,-12.17,rank_exit
 2026-11-19,XLE,SELL,7.251004,61.29,444.41,0.22,-22.27,signal_exit
 2026-11-19,UUP,BUY,28.244959,29.62,836.62,0.42,,signal_entry
+2026-11-20,XLV,SELL,3.167449,177.46,562.1,0.28,-4.97,rank_exit
+2026-11-20,BRK-B,BUY,1.383353,572.04,791.33,0.4,,signal_entry

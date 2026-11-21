@@ -1,31 +1,31 @@
 {
-  "cash": 6007.402972141822,
+  "cash": 5777.488841470409,
   "positions": {
-    "XLV": {
-      "shares": 3.1674491929786313,
-      "entry_price": 178.94000244140625,
-      "entry_date": "2026-10-21",
-      "cost_basis": 566.7833663246265,
-      "last_close": 181.1699981689453
-    },
     "COST": {
       "shares": 0.3046104583276246,
       "entry_price": 992.1300048828125,
       "entry_date": "2026-10-28",
       "cost_basis": 302.21317550794197,
-      "last_close": 1096.6199951171875
+      "last_close": 1093.8299560546875
     },
     "UUP": {
       "shares": 28.244959370306468,
       "entry_price": 29.6200008392334,
       "entry_date": "2026-11-19",
       "cost_basis": 836.6157202525908,
-      "last_close": 29.6200008392334
+      "last_close": 29.6299991607666
+    },
+    "BRK-B": {
+      "shares": 1.383352566002218,
+      "entry_price": 572.0399780273438,
+      "entry_date": "2026-11-20",
+      "cost_basis": 791.3329714599784,
+      "last_close": 572.0399780273438
     }
   },
   "initial_capital": 100000.0,
   "initialized_date": "2026-06-21",
-  "last_eod_date": "2026-11-19",
-  "portfolio_value": 7751.907376210463,
+  "last_eod_date": "2026-11-20",
+  "portfolio_value": 7738.911979614759,
   "strategy": "top11_adx22_momt_ac55_cap1"
 }

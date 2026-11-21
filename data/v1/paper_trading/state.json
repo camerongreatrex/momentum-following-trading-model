@@ -1,38 +1,38 @@
 {
-  "cash": 79857.60987635786,
+  "cash": 76752.54021133397,
   "positions": {
-    "XLV": {
-      "shares": 43.44876660438264,
-      "entry_price": 178.94000244140625,
-      "entry_date": "2026-10-21",
-      "cost_basis": 7774.72240226432,
-      "last_close": 181.1699981689453
-    },
     "COST": {
       "shares": 4.174957990220346,
       "entry_price": 992.1300048828125,
       "entry_date": "2026-10-28",
       "cost_basis": 4142.1010912228485,
-      "last_close": 1096.6199951171875
+      "last_close": 1093.8299560546875
     },
     "VGSH": {
       "shares": 36.85672634785139,
       "entry_price": 57.720001220703125,
       "entry_date": "2026-11-03",
       "cost_basis": 2127.3702897891035,
-      "last_close": 57.65999984741211
+      "last_close": 57.70000076293945
     },
     "UUP": {
       "shares": 385.7030636597857,
       "entry_price": 29.6200008392334,
       "entry_date": "2026-11-19",
       "cost_basis": 11424.525069297746,
-      "last_close": 29.6200008392334
+      "last_close": 29.6299991607666
+    },
+    "BRK-B": {
+      "shares": 18.890689758306646,
+      "entry_price": 572.0399780273438,
+      "entry_date": "2026-11-20",
+      "cost_basis": 10806.229754263102,
+      "last_close": 572.0399780273438
     }
   },
   "initial_capital": 100000.0,
   "initialized_date": "2026-03-20",
-  "last_eod_date": "2026-11-19",
-  "portfolio_value": 105857.24915825766,
+  "last_eod_date": "2026-11-20",
+  "portfolio_value": 105680.47867150498,
   "strategy": "top11_adx22_momt_ac55_cap1"
 }
